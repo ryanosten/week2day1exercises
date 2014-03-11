@@ -3,6 +3,9 @@ require 'sinatra/reloader'
 
 get '/' do
 	'
+	<style>
+		p{color: blue;}
+	</style>
 	<h1 id="heading1">This is my heading</h1>
 	<p>Hello World!</p>
 	<ol>
