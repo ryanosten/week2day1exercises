@@ -12,3 +12,4 @@ get '/hello/:name' do
 end
 
 
+get
